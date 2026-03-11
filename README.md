@@ -23,7 +23,7 @@ git clone https://github.com/<your-username>/fastapi-ingestion-service.git
 cd fastapi-ingestion-service
 
 
-2. Create a virtual environment
+## 2. Create a virtual environment 
 
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
