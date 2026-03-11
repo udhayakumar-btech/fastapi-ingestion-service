@@ -19,7 +19,7 @@ It allows you to submit ingestion jobs, fetch data from external APIs, and store
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/fastapi-ingestion-service.git
+git clone https://github.com/<your-username>/fastapi-ingestion-service.git](https://github.com/udhayakumar-btech/fastapi-ingestion-service.git
 cd fastapi-ingestion-service
 
 
